@@ -1,54 +1,32 @@
-<head>
-<title>
 
-This is my new! Page
-<link rel="stylesheet" href="style.css">
-</title>
-</head>
 
-<body>
-<p>
+body {
+    background: white url(image.png) repeat top right;
+}
+
 p {
     color: red;
 }
 
 
-I like cheese and bread
-
-</p>
-<h1> 
-
-<em>E</em>xpress Yourself
-
-</h1>
-</body>
-<h2>
-
-No one can guard Legoat James
-</h2>
 h1 {
     color: Orange;
     background-color: blue;
-<h1>
-Kobe is great
-</h1>
+  }
+
 body {
     font-family: Times New Roman;
     font-size: 16px;
-<p>
-Fave File
-strong {
+  }
+
+h2 {
     font-style: italic;
     text-transform: uppercase;
 }
-</p>
-h3 {
-    color: green;
-}
 
-<h3>
-On the Lowwwwwww
-</h3>
+h3 {
+    color: orange;
+}
 
 h2 {
     font-size: 1.5em;
@@ -56,17 +34,15 @@ h2 {
     margin: 25px;
     padding: 40px;
 }
-<h2>
-Burna Boy !$
-</h2>
+
+
 h3 {
     font-size: 3.5em;
     background-color: #ccc;
     margin: 20px;
     padding: 30px;
-<h3>
-Why not, why cant I be MVP?
-</h3>
+  }
+
 
 h1 {
     border-style: dashed;
@@ -74,12 +50,4 @@ h1 {
     border-left-width: 15px;
     border-right-width: 15px;
     border-color: black;
-<div id="Fisher">
-
-<h1>Chicken Curry</h1>
-
-<p class="Begin">This is my recipe for making chicken curryyyy</p>
-
-<p class="Begin">Mmm mm mmmmm</p>
-
-</div>
+  }
